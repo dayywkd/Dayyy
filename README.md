@@ -1,1 +1,5 @@
-Hello World
+Halo World
+
+Informatika
+Susah
+Mahal
